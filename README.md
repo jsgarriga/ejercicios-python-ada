@@ -1,6 +1,8 @@
-## Assignments and exercises for the ADA TW Python Course
+## Assignments and exercises 
 
-This repository contains the exercises requested by ADA TW.
+### ADA ITW plus OpenBootCamp Python Courses exercises and practices
+
+This repository contains exercises requested by ADA ITW & OpenBootCamp.
 
 The following topics were addressed:
 
